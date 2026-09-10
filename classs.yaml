@@ -1,0 +1,28 @@
+#commentstudents:
+Students:
+  Student1:
+    name: "raju"
+    age: 20
+    passed: true
+    subject:
+      - Math
+      - english
+      - science
+    Mark:
+      Math:90
+      english:33
+      science:55
+
+  student2:
+    name: "shyam"
+    age: 20
+    passed: true
+    subject:
+      - Math
+      - english
+      - science
+    Mark:
+      Math:90
+      english:33
+      science:55
+      
